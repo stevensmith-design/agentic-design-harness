@@ -1,0 +1,36 @@
+<!doctype html>
+<!-- Fixture: rigged so the CONTRAST check must fail, and only that one.
+     Body text is set to a token whose value is far too light on the paper
+     colour. Everything else here is the clean fixture. -->
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Floor fixture — clean</title>
+<style>
+:root {
+  --ink: #c9c9c9;
+  --paper: #ffffff;
+  --line: #d4d4d4;
+  --space-4: 16px;
+  --space-6: 24px;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink);
+       font: 16px/1.5 system-ui, sans-serif; }
+main { padding: var(--space-4); max-width: 100%; }
+.card { padding: var(--space-6); border: 1px solid var(--line); }
+a, button { display: inline-block; min-height: 48px; min-width: 48px;
+            line-height: 48px; color: var(--ink); background: var(--paper);
+            border: 1px solid var(--line); }
+</style></head>
+<body>
+<header><nav><a href="#main">Skip to content</a></nav></header>
+<main id="main">
+  <h1>Contrast below the floor</h1>
+  <h2>A section</h2>
+  <div class="card" data-measure>
+    <p>Body copy at a readable contrast ratio, inside a padded container.</p>
+  </div>
+  <button type="button">Press</button>
+</main>
+<footer><p>Footer</p></footer>
+</body></html>

@@ -1,0 +1,22 @@
+name: Verify harness
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Resolve browser
+        run: |
+          browser=$(command -v google-chrome || command -v chromium || command -v chromium-browser || true)
+          test -n "$browser" || { echo 'Browser missing; cannot certify rendered checks'; exit 1; }
+          echo "CHROME_PATH=$browser" >> "$GITHUB_ENV"
+      - name: Verify and package the public harness
+        run: bash scripts/package.sh

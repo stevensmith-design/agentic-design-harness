@@ -1,0 +1,16 @@
+Agentic Design Harness, including its bundled design workflows, is first-party work released under
+the repository's MIT License. No Hallmark, Impeccable, or Modern Screenshot code, prose, tables,
+examples, binaries, or other redistributable artifacts are included.
+
+The clean-room replacement work was informed by ideas from:
+
+- Hallmark (Nutlope and contributors, MIT) — structural variety between builds, named page
+  structures and parts, build distance, an anti-slop review lens, and an optional direction
+  catalogue. These ideas were re-expressed as `design-build`, `distinctiveness-review`, and
+  `starter-directions`.
+- Impeccable (Paul Bakaus, Apache-2.0) — refinement verbs, read-only critique/audit, production
+  hardening, and static/browser anti-pattern detection. These ideas were re-expressed as
+  `design-refine`, `ui-design-principles`, and the zero-dependency detector in `ui-design-review`.
+
+Neither project is bundled with or required by this harness at install, build or run time, and
+neither endorses it.

@@ -1,0 +1,32 @@
+<!doctype html>
+<!-- Fixture: identical to floor-clean.html except the :root block is written on
+     ONE line. It must still pass the token check. The first token check was
+     line-oriented — it dropped lines that BEGAN with a custom property — so a
+     minified or single-line :root reported every token it declared as a raw
+     colour leak, and the floor failed work that was correct. -->
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Floor fixture — tokens on one line</title>
+<style>
+:root{--ink:#111111;--paper:#ffffff;--line:#d4d4d4;--space-4:16px;--space-6:24px}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink);
+       font: 16px/1.5 system-ui, sans-serif; }
+main { padding: var(--space-4); max-width: 100%; }
+.card { padding: var(--space-6); border: 1px solid var(--line); }
+a, button { display: inline-block; min-height: 48px; min-width: 48px;
+            line-height: 48px; color: var(--ink); background: var(--paper);
+            border: 1px solid var(--line); }
+</style></head>
+<body>
+<header><nav><a href="#main">Skip to content</a></nav></header>
+<main id="main">
+  <h1>One-line token block</h1>
+  <h2>A section</h2>
+  <div class="card" data-measure>
+    <p>Body copy at a readable contrast ratio, inside a padded container.</p>
+  </div>
+  <button type="button">Press</button>
+</main>
+<footer><p>Footer</p></footer>
+</body></html>
