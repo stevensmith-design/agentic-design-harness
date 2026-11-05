@@ -1,5 +1,7 @@
 # Agentic Design Harness
 
+![Side-by-side landing page for a fictional weekly planner: a one-line generated version on the left, the same direction designed further on the right](.github/assets/hero.jpg)
+
 A persistent design environment for building and reviewing interfaces. It connects eleven bundled
 design workflows to project briefs, approved direction, reusable systems, components and decisions,
 so subsequent work can stay consistent across sessions.
