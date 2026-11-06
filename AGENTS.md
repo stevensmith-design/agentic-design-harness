@@ -37,7 +37,7 @@ judgement. Record assumptions; never invent brand facts or customer evidence.
 
 | Request | Execute |
 |---|---|
-| Concepts, alternatives, supplied references or help choosing | `/direction-study`; keep original references directly available to designer and builders. Settle closeness, reference/rule conflicts and imagery together. Reference-led is the normal reference route; reference-directed requires an explicit close-recreation request |
+| Concepts, alternatives, supplied references or help choosing | `/direction-study`; keep original references directly available to designer and builders. Ask about faithful style, loose inspiration or compatible mixing; reuse stated preferences and resolve material conflicts/imagery. Reference-led is the normal reference route; reference-directed requires an explicit close-recreation request |
 | New page/screen/app or substantial rebuild after selection | `/design-build`: direction → system → implementation → render → delegated review; `/ui-design-principles` during decisions |
 | Material UI, navigation or system review | `/design-review`: isolated lenses, bounded repair, fresh finish review. Focused by default; whole-product scope when warranted |
 | Refinement | Read system, patterns and surface first, then `/design-refine`; read-only unless edits are authorized or unlocked by the review orchestrator |
@@ -54,10 +54,15 @@ rule sections only when relevant; keep a compact `design/cheatsheet.md` for ongo
 ## Exploration and review
 
 Studies use provisional contracts and study-proof principles, not production system creation.
+Extract a provisional visual guide per source alongside the originals: colour roles/coverage, type,
+layout, components and imagery. Contrasting examples may be alternatives; mix only compatible ideas
+with clear roles. Preserve style while adapting content; expose constraint-driven departures.
 Keep references visible; visual techniques may earn their place. Contrast, usability, legibility
 and reduced-motion requirements still apply. For standalone web studies, save local HTML/CSS proofs,
 an index and desktop/mobile screenshots in the project; native/existing-app/requested design files
 keep their format. No design canvas, hosted artifact or publication unless requested.
+Initial previews may pause at **STUDY PREVIEW — FEEDBACK REQUIRED** after builder fidelity and
+legibility inspection; study-proof design guidance still applies. Full reviews remain pending.
 Render and look, then run independent distinctiveness and reference-resonance reviews before
 recommending. Genericness, reference influence and mechanical correctness are separate judgements.
 Unreviewed or confirmed generic proofs cannot receive positive recommendations. Preserve versions
