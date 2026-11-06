@@ -17,7 +17,12 @@ and design/brief.md; keep assumptions and actual decisions distinct.
 
 When brand direction is unresolved, explore it through the bundled direction-study workflow with
 original references and suitable proofs. It stops for a person's decision. Do not create a
-production system merely to begin exploration. A request for brand discovery alone may stop at
+production system merely to begin exploration. Extract a provisional visual guide per reference
+beside the actual original, following direction-study's reference-study guidance. Ask whether the
+person wants faithful style, loose inspiration or compatible combinations; reuse stated intent.
+Keep contrasting alternatives distinct and record material project-driven departures. Initial
+rendered previews may pause for feedback with reviews pending; principles still guide building.
+A request for brand discovery alone may stop at
 its brief and unresolved decisions; it does not authorize an application build or publication.
 
 After approval, ui-design-system can author visual brand/style guidelines and create or reconcile

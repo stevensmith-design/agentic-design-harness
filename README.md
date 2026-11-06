@@ -58,7 +58,7 @@ uses relative paths so moving the project does not break its wiring.
 
 | Request | Workflow |
 |---|---|
-| References, concepts, alternatives or help choosing | `direction-study`: originals remain visible, discovery resolves closeness/conflicts/imagery, narrow proofs and independent reviews, then **STUDY — DECISION REQUIRED** |
+| References, concepts, alternatives or help choosing | `direction-study`: per-source visual guides, faithful/loose/compatible-mix discovery, narrow previews for feedback; independent reviews before a completed comparison and **STUDY — DECISION REQUIRED** |
 | Build after choosing a direction | `design-build`: direction → design system → implementation → render → delegated review |
 | Review | `design-review`: separate distinctiveness, UI and whole-product lenses; IA and source similarity as applicable; one bounded repair and fresh finish review |
 | Refinement | `design-refine`: critique first; editing only within authorized scope |
@@ -73,6 +73,10 @@ and UI/IA fundamentals remain binding. There is no default house style.
 Standalone web studies produce local HTML/CSS proofs, an index and desktop/mobile screenshots in
 the project. Existing apps, native work and explicitly requested design-file formats keep their
 appropriate output. A study does not create a production design system or claim readiness.
+Initial proposals may pause at **STUDY PREVIEW — FEEDBACK REQUIRED** before full reviews, with no
+positive recommendation or completed-review claim. Design principles still guide each preview.
+Reference extraction preserves colour roles and coverage, typography, components and imagery;
+contrasting sources stay alternative styles unless deliberate compatible combinations are requested.
 
 ## Execution modes
 
