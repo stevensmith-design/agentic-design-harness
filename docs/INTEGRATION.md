@@ -31,6 +31,10 @@ output inside the source harness. Explicit existing-project work uses the additi
 Routing has no reference quarantine or native-only invocation mandate. Original references remain
 available through synthesis and proof-building. Discovery, study-proof principles, independent
 distinctiveness/resonance review and local proof outputs are owned by the bundled workflows.
+Reference study now extracts provisional per-source visual guides, preserving colour roles and
+coverage, typography, components and imagery. Influence questions distinguish faithful style, loose
+inspiration and deliberate compatible mixing. Early previews can pause for feedback before full
+reviews, but still execute study-proof principles; a completed comparison retains its review gates.
 Required execution and evidence remain real in folder mode. The compact entry keeps the persistent
 context, contract protection, system lifecycle, isolated production review, bounded repair and
 separated memory.
