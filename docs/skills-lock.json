@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated": "2026-11-05T10:45:38Z",
+  "generated": "2026-11-05T18:34:49Z",
   "provenance": "SHA-256 snapshot of the bundled Agentic Design Harness workflows",
   "skills": {
     "brand-to-system": {
@@ -25,7 +25,7 @@
     },
     "design-build": {
       "fileCount": 271,
-      "rollup": "d51c8254aadd46d86f93ccef393119114554086fcd51cead53a8c96ba6ed094d",
+      "rollup": "b2ffc6dc32c09b5ebd942b467b222e8843c1fdd5afbfd904fd8e1d51c14fff63",
       "files": {
         "SKILL.md": "48036203f8e8716910f3acc4838afcaafe9327f005bff6181db3792fbb2abb9e",
         "evals/evals.json": "e487424b037fe01f6d98afc852b5adb51ff8f3358795f6c8bc50cd0d2c470ecc",
@@ -37,7 +37,7 @@
         "references/build/variation.md": "d38c43ece20ed34eb39c8be67190d4059e40dd04f1322664577a48c1cf11d508",
         "references/direction/custom-direction.md": "cb3636f1e08de330439ac85129c84984c612ce466cd0ef0beaa1537bf547f5b0",
         "references/direction/discovery.md": "fd0721c4e0312a0783d263e9730afb405813f458929924e6ed29e4f90495ae3b",
-        "references/direction/routes.md": "ba2e4b0d00fddc7f5f866751cf096116c7d05ff175f166cc3f38f694de2ea971",
+        "references/direction/routes.md": "ec86aa814e89be95ee74eef2c4973c275f54feac47ca9d31d8fcb701564e6387",
         "references/skill-invocation.md": "d8e3143539d82c87db36b6004b0fb8cb39e4d3f657b345c2858bd6d5e257cb7c",
         "references/structures/index.md": "bb2e2265f9801edbf5098c14905e702bdbf5c5c53816f5063f0a0ad3c1b42600",
         "references/structures/pages/catalogue.md": "785c7ce2e7842378d09bd840b08fbebb2ccef79ae453725870a51a209df204d3",
@@ -414,27 +414,28 @@
       }
     },
     "direction-study": {
-      "fileCount": 70,
-      "rollup": "5d16f27a8e902eeb27cda24f1b8991353060121adf5073f0f3e0755e2b32bfc0",
+      "fileCount": 71,
+      "rollup": "831e320942c22554582d1e032a6ca97d3cfd0950e64a6048e3a0442b418a773e",
       "files": {
-        "SKILL.md": "26abf8f6aad1c4f28292c505011632964460b7f66f6ffe03a2ef8fd2e15baea6",
-        "evals/evals.json": "14ca0903cfa42593e219ec373ae14319812850ac4dd56c5c86ef02d54f13a05f",
-        "references/comparison-report.md": "2c8e108ab9dd840b0a0a1f29122c014f1f1df947f25d21b523326d63b1036181",
+        "SKILL.md": "c772ba6f389300ca4a3d64d6de496c8f89f3b9ae4381eabaeef9bb98374b721a",
+        "evals/evals.json": "7c6aaae4f1be49ac076df79e712c9f725f8fee10453ae5f825c6d18ab3c262ca",
+        "references/comparison-report.md": "2456331a8d2f9feece82c7a411d976c1464f21956baa60ed637ffa18743fb139",
         "references/diagnostics.md": "3e1b571436fe2d278886d8c7e6e34fa5cbdf977db56e306e4e66e05eaf173efa",
-        "references/divergence-check.md": "e4e40e47a7a5d56d614bf3b668c18c22a7956d216f759a44c185e7056fc13382",
-        "references/reference-study.md": "740da5067726e56c60566a1368ec0df5f66fe648c4bcf7a9eef7a97f3a86a86f",
-        "references/similarity-review.md": "6184db358cc88b6d6c1f9e8283923fa8e8bc9786d0c80ea830fea3ff6432489f",
+        "references/divergence-check.md": "9a1663a3410ede905426d431b09ff6e60db01e7d98d76282788ce05e4a54d8b7",
+        "references/reference-study.md": "5d895bbc3b99c8169c5de1ee1a7ae9db7d69db63611f07f3baaeed3d694bd6a3",
+        "references/similarity-review.md": "09c67a2934066892593b27004f3d4242cb774120800aed49f4cd3c9c48a186c2",
         "references/source-study.md": "01b235bb724ed504afc948f7d5c4fa5103b7e3aa80615285f5f4945f8cc1b900",
-        "references/study-review.md": "a7cf068f52d60b310af61906cbb1fbbd1f1ecd5cd401ead2a7b9b6814042dd53",
+        "references/study-review.md": "caa0482fc1986cd0492fa3c5bffa0e0bd98aaffdac7c6e80e2f27bed6695443a",
         "references/templates/asset-inventory.md": "cfcd70b7eb6728d6b08f061dadc76257cfa9062c15fe67f538237873c30154c7",
         "references/templates/brief-partition.md": "955c5098862c8e31ad880e7df289b3f26a5b23ce0c260734ac2e9146900bf2a2",
         "references/templates/contract-amendment.md": "259050c262077d4c6b91cb9dc71df2624e6922672e72d5d77899aa312519bb98",
         "references/templates/decision-provenance.md": "774f41f776bb63f93f6d0e0a3d8e98dd2676b199a299539f0fd621076fd5cfb6",
-        "references/templates/direction-contract.md": "7390bfa27da6fe8e33ea2597d61c742a81ff9c7f82fae545c04a7afc82ea5d83",
-        "references/templates/finding-card.md": "0b254bf1958dee5233bc11cb21a32c19edb4f4c83169bb08b9c13d62e4115c24",
+        "references/templates/direction-contract.md": "5762294e2997f5a01cc10224387265bbe2829d77dd552e13f5cef0101acca848",
+        "references/templates/finding-card.md": "55520dbea1130469fdb755bb2f411cd592013c7595bcd511a01d01f7c3a9a1c3",
         "references/templates/motion-study.md": "f944495a6defc07c1e2064f7d6dda67c914dd4550d69a8c8fc1f7ce716fc0a7d",
         "references/templates/premise.md": "877c0eb8b547b8c16c4474ca1904b9fd42dd39524be7b0db900caec3b0adbb73",
-        "references/templates/reference-derived-brief.md": "519c50b88003b9a1b74fcf175a18449dd160a67678549467111d7b4320adee1e",
+        "references/templates/reference-derived-brief.md": "a46da2c9c9d3c2493ef9a97ec5bf9432dad7609c810b8dfcd84f4c4d4347569b",
+        "references/templates/reference-visual-guide.md": "48b767b597d10391ce22c5d4c4237e2e476933653fec32709a313ee34d4a3350",
         "references/templates/source-key.md": "59345d0a999d68003aa8381f7adbfdf7c19235094754ef12f49f409d9c4f5f5a",
         "scripts/check-orchestration.py": "a51e4f500bdcabed8bccdcbba5008c7a7a02010b0e1ca73f28bca44f855b3829",
         "scripts/guidance-load.py": "179e86965b1cbdbfc2f771cd775969567874941cd78e09a235c8afa2525b08b3",
@@ -491,9 +492,9 @@
     },
     "distinctiveness-review": {
       "fileCount": 45,
-      "rollup": "56a705f7933f62cde53a2ebe06189b40eb3be370891b23016736a76892ea5f65",
+      "rollup": "d1cf2fa6b225660d1d260c7975920ea11af93a1a9942c435bf79b41ec60c1eee",
       "files": {
-        "SKILL.md": "30a0a53b4d0ba7d19a3edfb8030065a96fb9eddb2b14eed9cf998e138df5a409",
+        "SKILL.md": "e40147b255476a9941a6b1ac3a1c1b5d9cac97a542348d79c95d6c9f02991dde",
         "evals/evals.json": "1f32a21014d3447f3afc16fe7b2f5551468916c66567f672f8637631256f90e5",
         "references/gates.md": "0541c57dfcbfb8b3cadc440316f64087e35676b8be5522c1f2e2d72ece7ac32c",
         "scripts/check-report.mjs": "8054dce3bd3bfd59af4fe7f4971655e9b2eb1e16c8b2ccac26ca974d8c530e32",
@@ -611,9 +612,9 @@
     },
     "ui-design-principles": {
       "fileCount": 12,
-      "rollup": "4929c7f1ea51313a9888c2290f3c11b887cac60409cb486ccd8487ae5a189127",
+      "rollup": "f042cdd9ee2c2785a2324537724ffd458820d29eae24eb14377b594a5a45f715",
       "files": {
-        "SKILL.md": "4caae5c7119a8109affab8ed4c73f6cdf00adb6c27ef5385bfe541f01cfa2c56",
+        "SKILL.md": "62e6b3bf000701e66ffb4037363e787dac1769889cb9824992cf1f0761ebab8f",
         "evals/evals.json": "4796a2f4a4c4a1dd5249c20161262e2bef95afc8734fa03551a5a7ad83a53a03",
         "references/ai-agentic-build.md": "1089cc425517882f60f5621c594aa8844c4cf5a9ee93d5fc56a8d44a400b225e",
         "references/design-directions.md": "74782bf8ec5df1399176c14150ec062448a66e3e366ce17645ef9c78cc7e1a69",
@@ -621,7 +622,7 @@
         "references/material-3.md": "4240d168fd6506c2ecd542df1aa04af6b6662aded4ff8180b70ac1eaa7af623b",
         "references/motion-recipes.md": "7301d82933282485e9fa6dff204241c52e35a77d1e3513523b27ee28c1cbf874",
         "references/quick-rules.md": "47841cb7e88f5af4899167bad3264e08c44d3ece9b5831e2f00dbdc3edd14ffa",
-        "references/reference-intake.md": "3fa63b06ea42b528e457b0daaa5165ffff4a16d3eb105b9026a26deee10a1082",
+        "references/reference-intake.md": "4f367ad3e4a4fd60dd82726d73647a9f3304eb923ebe8dd175e1facf22dc985a",
         "references/rules.md": "545297d500f51ecd22ba54ecb82d349d024815b319b66e57a8acc0fd50b001ac",
         "references/tokens-template.json": "2080863a5b029f9a3f4d613bf9a5c7177dcb33bafc7a6e138ce40b12d2a4a795",
         "tests/run.sh": "b8bbb4141133c6abc4bee2ce3996f15d838dc6c7cef801012c95b601eecbbb62"
@@ -985,9 +986,9 @@
     },
     "ui-design-system": {
       "fileCount": 59,
-      "rollup": "2f077f04483f7bdc278b8060b9317c5a3dfb5f9ab3fc84e523916e96c68fb5af",
+      "rollup": "393a802efebd0173eea2f927619f9a6b76ace08407ea9ca037786a32aa27eadc",
       "files": {
-        "SKILL.md": "a9736be8bb7347d02734f2480d57bf6adafb2931accedafa178658a19d798c0e",
+        "SKILL.md": "887a3bca00535728eff90ee1fd4c259ab5e5631c6e4e742e873fa484406ef87f",
         "evals/evals.json": "16dc7559135db2200834e18eb85a04eca5b90e3d339a8334e4d022ee4b6ab73b",
         "references/brand-guidelines.md": "92a96f15e520800777217fd18167435466e74ca7f9612d6c6a495705e80440bf",
         "references/component-integration.md": "717ca8a276dde7e6b0bec28d00e4b5cc0d0cececb0bb6cdc8c1a92b5712da1d9",

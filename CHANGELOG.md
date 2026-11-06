@@ -1,5 +1,16 @@
 # Changelog
 
+## Unreleased
+
+- Extract provisional visual guides per reference, preserving colour roles/coverage, typography,
+  layout, component treatments and imagery; distinguish observations from adaptations.
+- Clarify faithful style, loose inspiration and deliberate compatible mixing; contrasting sources
+  can remain separate alternatives. Surface project-rule conflicts and unagreed asset substitutions.
+- Show initial rendered previews for feedback before full reviews, while retaining proof-time
+  design principles and completed-comparison review requirements.
+- Align harness entry instructions, discovery and brief context with the bundled workflow; add
+  four behavioural evaluation definitions, which are not executed model evaluations.
+
 ## 2.0.0 — Agentic Design Harness
 
 First public release.
