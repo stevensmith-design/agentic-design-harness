@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- README: links to stevensmith.dev carry `utm_source=github` and the repo name, so visits from the repo can be counted.
 - README: a one-line promise, a "Made by" line with the field report link, an audience line and a short "Try it".
 - The licence scope note moves from LICENSE to the top of NOTICE, so GitHub detects LICENSE as MIT. The terms are unchanged.
 - Extract provisional visual guides per reference, preserving colour roles/coverage, typography,
