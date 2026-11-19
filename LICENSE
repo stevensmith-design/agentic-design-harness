@@ -19,10 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-This licence covers Agentic Design Harness's own work: AGENTS.md, CLAUDE.md, the
-scripts under scripts/, the design/ scaffolds, docs/, and all eleven bundled
-first-party skills under .claude/skills/. NOTICE records ideas that informed
-the clean-room replacement work; no third-party code is redistributed.

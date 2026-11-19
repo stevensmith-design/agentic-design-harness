@@ -2,6 +2,14 @@
 
 ![Side-by-side landing page for a fictional weekly planner: a one-line generated version on the left, the same direction designed further on the right](.github/assets/hero.jpg)
 
+**Turns the [Agentic Design Kit](https://github.com/stevensmith-design/agentic-design-kit) into an always-on design environment.**
+
+Made by Steven Smith. I wrote up the approach in [Designed, not generated](https://stevensmith.dev/writing/designed-not-generated);
+more of my work is at [stevensmith.dev](https://stevensmith.dev).
+
+For anyone designing pages or apps with an AI agent over many sessions, who wants the brief, the
+design system and past decisions to carry from one session to the next.
+
 A persistent design environment for building and reviewing interfaces. It connects eleven bundled
 design workflows to project briefs, approved direction, reusable systems, components and decisions,
 so subsequent work can stay consistent across sessions.
@@ -9,6 +17,16 @@ so subsequent work can stay consistent across sessions.
 Everything it needs is in this repository: the eleven skills are bundled and locked here, and the
 harness supplies project context and wiring rather than another set of aesthetic rules. It does not
 fetch, require or run anything from another repository.
+
+## Try it
+
+You need git and Python 3.
+
+1. `git clone https://github.com/stevensmith-design/agentic-design-harness.git`
+2. Open the folder in Claude Code, or connect it in Claude Desktop, and ask for something, for
+   example "Create a landing page for my workshop."
+3. The agent first makes a separate project folder next to the harness and works there. To add the
+   harness to a project you already have, see [Add to an existing project](#add-to-an-existing-project).
 
 ## Start a new project
 
