@@ -1,3 +1,8 @@
+The MIT licence in LICENSE covers Agentic Design Harness's own work: AGENTS.md, CLAUDE.md, the
+scripts under scripts/, the design/ scaffolds, docs/, and all eleven bundled
+first-party skills under .claude/skills/. This file records ideas that informed
+the clean-room replacement work; no third-party code is redistributed.
+
 Agentic Design Harness, including its bundled design workflows, is first-party work released under
 the repository's MIT License. No Hallmark, Impeccable, or Modern Screenshot code, prose, tables,
 examples, binaries, or other redistributable artifacts are included.
