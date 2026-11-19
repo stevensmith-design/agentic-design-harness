@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- README: a one-line promise, a "Made by" line with the field report link, an audience line and a short "Try it".
+- The licence scope note moves from LICENSE to the top of NOTICE, so GitHub detects LICENSE as MIT. The terms are unchanged.
 - Extract provisional visual guides per reference, preserving colour roles/coverage, typography,
   layout, component treatments and imagery; distinguish observations from adaptations.
 - Clarify faithful style, loose inspiration and deliberate compatible mixing; contrasting sources
