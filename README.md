@@ -4,8 +4,8 @@
 
 **Turns the [Agentic Design Kit](https://github.com/stevensmith-design/agentic-design-kit) into an always-on design environment.**
 
-Made by Steven Smith. I wrote up the approach in [Designed, not generated](https://stevensmith.dev/writing/designed-not-generated);
-more of my work is at [stevensmith.dev](https://stevensmith.dev).
+Made by Steven Smith. I wrote up the approach in [Designed, not generated](https://stevensmith.dev/writing/designed-not-generated?utm_source=github&utm_campaign=agentic-design-harness);
+more of my work is at [stevensmith.dev](https://stevensmith.dev?utm_source=github&utm_campaign=agentic-design-harness).
 
 For anyone designing pages or apps with an AI agent over many sessions, who wants the brief, the
 design system and past decisions to carry from one session to the next.
@@ -153,8 +153,8 @@ configuration, output boundaries and acceptance scope.
 Steven Smith describes the approach to context, references, systems and review. Some examples use
 earlier versions of these workflows:
 
-- [English: Designed, not generated](https://stevensmith.dev/writing/designed-not-generated)
-- [日本語: 生成ではなく、デザインを。](https://stevensmith.dev/ja/writing/designed-not-generated)
+- [English: Designed, not generated](https://stevensmith.dev/writing/designed-not-generated?utm_source=github&utm_campaign=agentic-design-harness)
+- [日本語: 生成ではなく、デザインを。](https://stevensmith.dev/ja/writing/designed-not-generated?utm_source=github&utm_campaign=agentic-design-harness)
 
 ## Licence and provenance
 
